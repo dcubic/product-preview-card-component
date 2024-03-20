@@ -1,1 +1,1 @@
-See it in action here: 
+See it in action here: https://dcubic.github.io/product-preview-card-component/
